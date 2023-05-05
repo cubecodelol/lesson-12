@@ -1,0 +1,93 @@
+body {
+    font-family: 'Mulish', sans-serif;
+}
+
+.channel {
+    height: 100vh;
+    width: 100vw;
+    background-color: #FCEBEBFF;
+}
+
+.main-content {
+    background-color: #ffffff;
+    height: 80vh;
+    width: 35vw;
+    border-radius: 24px;
+    padding: 30px 0px;
+}
+
+.icon {
+    height: 10vh;
+    border-radius: 50px;
+}
+
+.channel-icon {
+    border: 10px solid #FCEBEBFF;
+    border-radius: 50px;
+}
+
+.who-invited {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.channel-name {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.channel-activity {
+    font-size: 16px;
+    font-weight: 400;
+    border: 0px solid white;
+    background-color: #F8F4FA;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+label {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#username {
+    width: 25vw;
+    height: 6.25vh;
+    border: 1px solid #C2ADC2;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#privacy-policy {
+    height: 7vh;
+    border: 1px solid #C2ADC2;
+}
+
+.privacy-policy {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.join-button {
+    width: 25vw;
+    height: 6.25vh;
+    border: 1px solid #C2ADC2;
+    background-color: #A30062;
+    color: #FFFFFF;
+    border-radius: 8px;
+}
+
+a {
+    color: #A30062;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #A30062;
+    text-decoration: underline;
+}
+
+button:focus {
+    outline: none;
+}
